@@ -16,5 +16,5 @@
   - 2、当点击进度条的时候，通过穿参调用翻页定位函数进行定位，从而到达对应页面
 
 
-# 启动方法：yarn/npm start
+# 启动方法：首先npm install  然后 yarn/npm start
 # 组件封装在index.tsx中
